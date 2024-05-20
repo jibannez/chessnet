@@ -1,0 +1,8 @@
+*.bk
+*.bak
+*.tmp
+*~
+__pycache__
+*.pyc
+*.log
+chessnet.egg-info/
